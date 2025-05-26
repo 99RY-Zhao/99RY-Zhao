@@ -1,12 +1,13 @@
 # 👋 Hi, I’m @99RY-Zhao (Zoe Ruoyi Zhao)
 
-I’m currently working as a **Project Assistant** in AI and Neuroscience, focusing on **unsupervised segmentation of medial temporal lobe (MTL) subregions** in relation to **Alzheimer’s Disease**, using histology data.
+Currently - **Project Assistant** in AI and Neuroscience - **unsupervised segmentation of medial temporal lobe (MTL) subregions** in relation to **Alzheimer’s Disease**, using histology data.
 
-Worked as a **Project Assistant in Behavioral Neuroscience**. My work primarily involves **AI guided analysis of behavioural phenotypes** in the context of **Parkinson's Disease (PD)** using deep learning tools (Anipose, DeepLabCut, etc.) on markerless animals pose estimation data. 
+🔬 **Master’s thesis** on **Synthesize Brain MRI based on Generative models** mainly using diffusion models.
 
-🔬 I completed my **Master’s thesis** on **Synthesize Brain MRI based on Generative models** mainly using diffusion models.
+**Project Assistant in Behavioral Neuroscience** - **AI guided analysis of behavioural phenotypes** in the context of **Parkinson's Disease (PD)** using deep learning tools (Anipose, DeepLabCut, etc.) on markerless animals pose estimation data. 
 
-🎓 I hold an **M.Sc. in Machine Learning** from **Lunds Tekniska Högskola (LTH), Sweden**.  
+
+🎓 **M.Sc. in Machine Learning** from **Lunds Tekniska Högskola (LTH), Sweden**.  
 Relevant coursework includes:
 - Medical Image Analysis  
 - Computer Vision  
